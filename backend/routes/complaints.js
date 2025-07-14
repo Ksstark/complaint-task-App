@@ -18,7 +18,7 @@ router.post('/', auth, async (req, res) => {
     });
     await complaint.save();
     // Log creation
-    const logMsg = `[${new Date().toISOString()}] COMPLAINT CREATED: ${complaint.title} (${complaint.priority} priority) by user ${req.user.id}\n`;
+    const logMsg = `[${new Date().toISOString()}] COMPLAINT CREATED: ${complaint.title} (${complaint.priority} priority) by user ${req.user.username}\n`;
     fs.appendFileSync(path.join(__dirname, '../log.txt'), logMsg);
     res.status(201).json(complaint);
   } catch (err) {

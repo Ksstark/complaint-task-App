@@ -187,3 +187,14 @@
 [2025-07-14T09:02:51.080Z] LOGIN: User admin1@gmail.com logged in
 [2025-07-14T09:03:12.614Z] LOGOUT: User admin1 logged out
 [2025-07-14T09:03:29.005Z] LOGIN: User yash@gmail.com logged in
+[2025-07-14T11:31:29.165Z] LOGOUT: User yash logged out
+[2025-07-14T11:58:01.354Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T11:58:42.584Z] LOGOUT: User admin1 logged out
+[2025-07-14T11:58:51.951Z] LOGIN: User yash@gmail.com logged in
+[2025-07-14T11:59:23.936Z] COMPLAINT CREATED: demo 4 (medium priority) by user yash
+[2025-07-14T11:59:26.474Z] LOGOUT: User yash logged out
+[2025-07-14T11:59:34.872Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T12:21:06.104Z] LOGOUT: User admin1 logged out
+[2025-07-14T12:26:32.226Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T13:09:29.100Z] STATUS UPDATE: Complaint 686f47f608605acdd99b12b3 status changed from Resolved to Pending
+[2025-07-14T13:09:51.587Z] STATUS UPDATE: Complaint 686f59759e2ee09471804e1e status changed from Pending to Resolved
