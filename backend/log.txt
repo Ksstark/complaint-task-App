@@ -167,3 +167,23 @@
 [2025-07-14T06:15:15.401Z] LOGOUT: User admin1 logged out
 [2025-07-14T06:15:25.603Z] LOGIN: User yash@gmail.com logged in
 [2025-07-14T06:18:13.105Z] LOGOUT: User yash logged out
+[2025-07-14T06:39:51.147Z] LOGIN: User yash@gmail.com logged in
+[2025-07-14T06:41:28.856Z] LOGOUT: User yash logged out
+[2025-07-14T07:13:38.799Z] LOGIN: User yash@gmail.com logged in
+[2025-07-14T07:14:04.660Z] LOGOUT: User yash logged out
+[2025-07-14T07:14:15.810Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T07:14:49.690Z] STATUS UPDATE: Complaint 687499f249ed8a7490148368 status changed from Pending to Resolved
+[2025-07-14T07:15:29.125Z] LOGOUT: User admin1 logged out
+[2025-07-14T07:15:37.337Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T07:18:06.285Z] LOGOUT: User admin1 logged out
+[2025-07-14T07:18:59.158Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T08:20:05.226Z] LOGOUT: User admin1 logged out
+[2025-07-14T08:20:19.360Z] LOGIN: User yash@gmail.com logged in
+[2025-07-14T08:20:39.180Z] COMPLAINT CREATED: demo 2 (low priority) by user 68749649ada5a59f57f9cd5c
+[2025-07-14T08:21:02.365Z] LOGOUT: User yash logged out
+[2025-07-14T08:21:11.478Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T08:23:48.268Z] STATUS UPDATE: Complaint 687499f249ed8a7490148368 status changed from Resolved to Pending
+[2025-07-14T08:24:57.651Z] LOGOUT: User admin1 logged out
+[2025-07-14T09:02:51.080Z] LOGIN: User admin1@gmail.com logged in
+[2025-07-14T09:03:12.614Z] LOGOUT: User admin1 logged out
+[2025-07-14T09:03:29.005Z] LOGIN: User yash@gmail.com logged in
